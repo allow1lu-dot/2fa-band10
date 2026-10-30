@@ -5,10 +5,10 @@
     "name": "2FA验证器",
     "description": "手环端离线进行2fa验证码计算，有配套手机端软件可直接导入",
     "preview": [
-      "media/2fa验证器-宣传图-3x2.png"
+      "media/2fa验证器-宣传图-3x-fixed.png"
     ],
-    "icon": "media/2fa验证器-图标-1x1.png",
-    "cover": "media/2fa验证器-宣传图-3x2.png",
+    "icon": "media/2fa验证器-图标-1x1-fixed.png",
+    "cover": "media/2fa验证器-宣传图-3x-fixed.png",
     "author": [
       {
         "name": "lusq",
